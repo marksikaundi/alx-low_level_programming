@@ -6,7 +6,6 @@
  * this program prints "the alphabet in lower case and then in uppercase
  * Return: 0
  */
-
 int main(void)
 
 {
