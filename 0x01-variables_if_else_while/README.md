@@ -1,1 +1,1 @@
-loops and conditions
+loops, if, else and conditions
