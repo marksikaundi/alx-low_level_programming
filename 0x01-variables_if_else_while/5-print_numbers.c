@@ -4,16 +4,28 @@
  * main - entry point
  *
  * Description: using the main function
+ *
  * this program prints "all single digit numbers of base 10 starting from 0
+ *
  * Return: always returns 0
  */
+
 int main(void)
+
 {
+
 	int i;
-	for (1 = 0; 1 < 10; 1++)
+
+	for (i = 0; i < 10; i++)
+
 	{
-		printf("%1", i)
+
+		printf("%i", i);
+
 	}
-	print("\n");
+
+	printf("\n");
+
 	return (0);
+
 }
