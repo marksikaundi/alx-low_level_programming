@@ -1,24 +1,16 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
 
 
 
 /**
+ * main - entry point
  *
- ** main - entry point
+ * it executes the program, and prints n
  *
- **
- *
- ** it executes the program, and prints n
- *
- **
- *
- ** Return:always return 0
- *
- **/
+ * Return:always return 0
+ */
 
 int main(void)
 
