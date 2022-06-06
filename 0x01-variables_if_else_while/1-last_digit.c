@@ -4,7 +4,6 @@
 
 
 /**
- *
  * main - entry point
  *
  * this program prints "Programming is positive, zero, or negative
