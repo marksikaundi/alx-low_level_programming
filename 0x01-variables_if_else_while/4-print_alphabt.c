@@ -2,9 +2,11 @@
 
 /**
  * main - entry point
- * 
+ *
  * Description: using the main function
+ *
  * this program prints "the alphabet in lower case followed by a new line
+ *
  * Return: always 0
  */
 
