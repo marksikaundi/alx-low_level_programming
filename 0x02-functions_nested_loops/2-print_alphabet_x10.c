@@ -4,7 +4,7 @@
 /**
  * printf_alphatbet_x10 - print the alphabet 10 times
  *
- * Description: print 10 times
+ * Description: print 10 times the alphabet
  * Return: Always (0)
  */
 
