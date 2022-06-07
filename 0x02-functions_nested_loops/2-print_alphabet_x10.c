@@ -7,7 +7,7 @@
  * Description: print 10 times
  * Return: Always (0)
  */
-//dem
+
 void print_alphabet_x10(void)
 {
 	int alphabet_count = 0;
