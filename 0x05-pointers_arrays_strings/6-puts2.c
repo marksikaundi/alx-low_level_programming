@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * puts2 - print chracter of a string
- * @str: character value
- *Description: function to print every character of a string
- * Return: Always 0.
+ * puts2 - print other charcter of string starting from first charcter
+ * @str: string
  */
 
 void puts2(char *str)
@@ -15,7 +13,9 @@ void puts2(char *str)
 	while (str[i] != '\0')
 	{
 		if (i % 2 == 0)
+		{
 			_putchar(str[i]);
+		}
 		i++;
 	}
 	_putchar('\n');
