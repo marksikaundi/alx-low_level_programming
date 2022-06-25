@@ -5,7 +5,6 @@
  * @argc: is an argument counter for char.
  * @argv: is an agument value for char.
  * Return: Returns always success.
- * Return: Returns always success.
  */
 
 int main(int argc, char *argv[])
